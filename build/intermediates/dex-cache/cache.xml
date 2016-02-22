@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\liqui\Desktop\Android-projects\JustJava\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_slice.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f680ea9fe8e287eed9e76b2fe106564bde29aba0">
+        <dex dex="C:\Users\liqui\Desktop\Android-projects\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\5\main_slice_c76d37f868a71e2b94760201a18cc2e744f758f6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\liqui\Desktop\Android-projects\JustJava\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\1a\dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5cdbe540d109ae4c7f33fbfe2e5153a9c6a6c727">
+        <dex dex="C:\Users\liqui\Desktop\Android-projects\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\1a\dependencies_a2e185e78cb9f15293f5ba5774de21469bbddaf1\classes.dex" />
+    </item>
+
+</items>
